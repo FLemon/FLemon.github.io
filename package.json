@@ -1,0 +1,23 @@
+{
+  "name": "flemon.github.io",
+  "version": "1.0.0",
+  "description": "blog",
+  "main": "index.js",
+  "dependencies": {
+    "giab": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FLemon/FLemon.github.io.git"
+  },
+  "author": "FLemon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FLemon/FLemon.github.io/issues"
+  },
+  "homepage": "https://github.com/FLemon/FLemon.github.io#readme"
+}
